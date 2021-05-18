@@ -4,8 +4,8 @@ MSR605 Magnetic Card Reader / Writer
 _Edited: 18  May, 2021_
 
 Authors:
-- Liam Hogan - bentbot@outlook.com
 - Manwinder Sidhu - manwindersapps@gmail.com
+- Liam Hogan - bentbot@outlook.com
 
 Platform: Windows / Mac
 Python: 2.7.16
