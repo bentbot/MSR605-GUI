@@ -1,7 +1,9 @@
 MSR605 Magnetic Card Reader / Writer
   ------------------
+  
+!['MSR605-GUI Screenshot on macOS Catalina'](https://raw.githubusercontent.com/bentbot/MSR605-GUI/master/MSR605-GUI.png)
 
-_Edited: 18  May, 2021_
+_Edited: 21  May, 2021_
 
 Authors:
 - Manwinder Sidhu - manwindersapps@gmail.com
