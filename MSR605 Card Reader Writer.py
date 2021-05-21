@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# File: GUI.py
+# File: MSR605 Card Reader Writer.py
 # Version: 1.0
 # Description: GUI for the magnetic strip card reader/writer MSR605, and other versions
 # Author: Liam Hogan - liam@hogan.re
