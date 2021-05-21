@@ -4,10 +4,10 @@ _Edited: 21  May, 2021_
 !['MSR605-GUI Screenshot on macOS Catalina'](https://raw.githubusercontent.com/bentbot/MSR605-GUI/master/MSR605-GUI.png)
 ### Download the Application:
 - MacOS Catalina  - Version 1.0
--- MSR605 Card Reader Writer.app
--- [Download the Application (Zip - 60Kb)](https://github.com/bentbot/MSR605-GUI/blob/master/dist/MSR605CardReaderWriter.zip?raw=true)
+    - MSR605 Card Reader Writer.app
+    - [Download the Application (Zip - 60Kb)](https://github.com/bentbot/MSR605-GUI/blob/master/dist/MSR605CardReaderWriter.zip?raw=true)
 - Windows: coming soon...
--- Compile it yourself with a .py to .exe tool!
+    - Compile it yourself with a .py to .exe tool!
 
 ### Project Description
   Simple GUI for reading and writing to 3-striped magnetic cards with a MSR605 on a USB/serial interface. Forked from Manwinder's [original project](https://github.com/manwinder123/MSR605-Card-Reader-Writer-Eraser-with-GUI), this version uses an [alternative library](http://web.mit.edu/~achernya/Public/msr.py) to connect with the device.
@@ -35,6 +35,7 @@ _Edited: 21  May, 2021_
 ###  Build From Source
       # Install the build tools
       pip install -U py2app
+      
       # Build application package from source
       python setup.py py2app -A
 ###  Hardware Description
@@ -42,12 +43,14 @@ _Edited: 21  May, 2021_
 
 ###  File Description
  - ./MSR605 Card Reader Writer.py 
-  -- The graphical user interface source.
+    - The graphical user interface source.
  - ./msr.py 
-  -- The library that connects to the card reader (MSR605).
+    - The library that connects to the card reader (MSR605).
  - /dist/MSR605CardReaderWriter.zip 
-  -- The compiled application (.app) package for download.
+    - The compiled application (.app) package for download.
 
 ### Authors
-- Liam Hogan - bentbot@outlook.com
-- Manwinder Sidhu - manwindersapps@gmail.com
+- Liam Hogan
+    bentbot@outlook.com
+- Manwinder Sidhu
+    manwindersapps@gmail.com
