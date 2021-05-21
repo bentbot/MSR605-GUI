@@ -132,7 +132,7 @@ def _path_inject(paths):
     sys.path[:0] = paths
 
 
-_path_inject(['/Users/admin/MSR605-GUI'])
+_path_inject(['/Users/admin/Documents/MSR605-GUI'])
 
 
 import re
@@ -185,7 +185,7 @@ def _run():
     exec(compile(source, script, "exec"), globals(), globals())
 
 
-DEFAULT_SCRIPT='/Users/admin/MSR605-GUI/MSR605 Card Reader Writer.py'
+DEFAULT_SCRIPT='/Users/admin/Documents/MSR605-GUI/MSR605 Card Reader Writer.py'
 SCRIPT_MAP={}
 try:
     _run()
